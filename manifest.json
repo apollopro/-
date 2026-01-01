@@ -1,0 +1,20 @@
+{
+  "name": "Gong Zhu Scorer",
+  "short_name": "Gong Zhu",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F7F7",
+  "theme_color": "#006C70",
+  "icons": [
+    {
+      "src": "https://fonts.gstatic.com/s/i/materialicons/casino/v6/24px.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://fonts.gstatic.com/s/i/materialicons/casino/v6/24px.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
